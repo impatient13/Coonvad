@@ -20,6 +20,8 @@ This project provides a custom interface and visual style based on the Mullvad V
    ```bash
    python Coonvad\ VPN/coonvad.py
    ```
+3. Make sur to have Mullvad VPN installed
+   https://mullvad.net/fr/download/installer/exe/latest
 
 ## Disclaimer & License
 
